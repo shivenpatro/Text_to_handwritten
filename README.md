@@ -19,9 +19,8 @@ A Python tool that transforms digital text into realistic handwritten documents.
 ## ⚙️ Installation
 
 1. Clone the repository:
-git clone https://github.com/shivenpatro/text-to-handwriting.git
-cd text-to-handwriting
-
+git clone [https://github.com/shivenpatro/text-to-handwriting](https://github.com/shivenpatro/Text_to_handwritten).git
+cd Text_to_handwritten
 2. Install required packages:
 pip install Pillow
 
