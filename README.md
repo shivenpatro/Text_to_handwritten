@@ -19,7 +19,7 @@ A Python tool that transforms digital text into realistic handwritten documents.
 ## ⚙️ Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/text-to-handwriting.git
+git clone https://github.com/shivenpatro/text-to-handwriting.git
 cd text-to-handwriting
 
 2. Install required packages:
