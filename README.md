@@ -68,7 +68,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-SHiven Patro - shivenpatro2018@gmail.com
+Shiven Patro - shivenpatro2018@gmail.com
 Project Link: [https://github.com/shivenpatro/text-to-handwriting](https://github.com/shivenpatro/text-to-handwriting)
 
 ---
